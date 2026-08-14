@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Velvet Browser
+GenericName=Web Browser Launcher
+Comment=Persistent-profile Chromium launcher with premium UI
+Exec=python3 /opt/velvet-browser/main.py
+Icon=/opt/velvet-browser/assets/icon.png
+Terminal=false
+StartupNotify=true
+Categories=Network;WebBrowser;
+Keywords=browser;chrome;chromium;private;velvet;
+MimeType=x-scheme-handler/http;x-scheme-handler/https;
